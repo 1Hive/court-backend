@@ -7,7 +7,7 @@ const BUILDS = {
   '@aragon/minime': {
     'MiniMeToken': require('@aragon/minime/build/contracts/MiniMeToken')
   },
-  '@1hive/celeste': {
+  '@aragon/court': {
     'AragonCourt': require('@aragon/court/build/contracts/AragonCourt'),
     'DisputeManager': require('@aragon/court/build/contracts/DisputeManager'),
     'JurorsRegistry': require('@aragon/court/build/contracts/JurorsRegistry'),

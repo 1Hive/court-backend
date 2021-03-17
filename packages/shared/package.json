@@ -5,7 +5,7 @@
   "workspaces": {
     "nohoist": [
       "@aragon/minime",
-      "@1hive/celeste",
+      "@aragon/court",
       "@aragonone/precedence-campaign-arbitrable"
     ]
   },
